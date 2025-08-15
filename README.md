@@ -261,19 +261,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [FastAPI](https://fastapi.tiangolo.com/) for the backend framework
 - [React](https://react.dev/) for the frontend framework
 
-## 📧 Contact
 
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/sp500-ai-dashboard](https://github.com/yourusername/sp500-ai-dashboard)
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/sp500-ai-dashboard&type=Date)](https://star-history.com/#yourusername/sp500-ai-dashboard&Date)
-
----
-
-<div align="center">
-  <p>Built with ❤️ by developers for investors</p>
-  <p>If you find this project useful, please consider giving it a ⭐!</p>
-</div>
